@@ -5,7 +5,7 @@ Priority: extra
 Section: utils
 Maintainer: tkuchiki
 Installed-Size: 4560
-Filename: /tmp/apt/ubuntu16.04/stretcher_0.8.0_amd64.deb
+Filename: ./stretcher_0.8.0_amd64.deb
 Size: 1329008
 MD5sum: 21fe184c7f1218faf1985eff85ec5a77
 SHA1: e7fbbe106231aa8ea9594353b8158f5e45e2d832
